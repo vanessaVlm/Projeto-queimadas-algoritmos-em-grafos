@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1747439309 source:c:\users\public\codeblocksprojeto\sgcqv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"grafo.h"
+	"brigadistas.h"
+	"fogo.h"
+	"heap.h"
+	"fila.h"
+	<unistd.h>
+
+1747439473 source:c:\users\public\codeblocksprojeto\sgcqv\brigadistas.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<float.h>
+	"brigadistas.h"
+	"grafo.h"
+	"heap.h"
+	"fogo.h"
+	"fila.h"
+
+1747437749 source:c:\users\public\codeblocksprojeto\sgcqv\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<float.h>
+	"grafo.h"
+	"brigadistas.h"
+
+1747437756 c:\users\public\codeblocksprojeto\sgcqv\grafo.h
+	<stdbool.h>
+
+1747438448 c:\users\public\codeblocksprojeto\sgcqv\brigadistas.h
+
+1747439511 source:c:\users\public\codeblocksprojeto\sgcqv\fogo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"fogo.h"
+	"grafo.h"
+	"fila.h"
+
+1747431938 c:\users\public\codeblocksprojeto\sgcqv\fogo.h
+
+1747437767 source:c:\users\public\codeblocksprojeto\sgcqv\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"fila.h"
+
+1747437777 c:\users\public\codeblocksprojeto\sgcqv\fila.h
+
+1747437737 source:c:\users\public\codeblocksprojeto\sgcqv\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"heap.h"
+
+1747239419 c:\users\public\codeblocksprojeto\sgcqv\heap.h
+
