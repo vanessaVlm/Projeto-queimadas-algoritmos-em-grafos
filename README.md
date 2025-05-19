@@ -32,10 +32,3 @@ Este projeto simula o combate a incêndios florestais usando C, representando a 
 
 Pull Requests são bem-vindos.
 
-## Autor
-
-Exemplo de simulação em C.
-
-## Licença
-
-MIT (consulte o arquivo `LICENSE`, se presente).
