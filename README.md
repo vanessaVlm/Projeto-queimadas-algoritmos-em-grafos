@@ -6,11 +6,6 @@ Este projeto simula o combate a incêndios florestais usando C, representando a 
 
 * `main.c`, `grafo.{h,c}`, `brigadistas.{h,c}`, `fogo.{h,c}`, `heap.{h,c}`, `fila.{h,c}`
   
-## Vídeos Explicativos
-
-- [Apresentação Carina](https://youtu.be/1EbjVQXZHNY?feature=shared)
-- [Apresentação Vanessa](https://youtu.be/Vb6ajHqgrsM?si=XIdOrYPwxa5UuM_L)
-  
 ## Como Executar (GitHub com Projeto Code::Blocks)
 
 **Opção 1: Usando o Code::Blocks**
